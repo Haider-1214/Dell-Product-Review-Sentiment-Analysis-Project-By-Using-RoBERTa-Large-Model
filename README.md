@@ -69,6 +69,6 @@ To develop a highly accurate text classification model that can interpret user s
 ## 📌 Author
 
 **Zeeshan Haider**  
-- [LinkedIn Profile](https://linkedin.com/in/zeeshan-haider)  
-- Email: zeeshanhaider@gmail.com
+  
+- Email: haideriam251@gmail.com
 
